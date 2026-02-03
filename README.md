@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hello! I'm Manuel Muzembela 👋
 
-<!--
-**Muzembela/Muzembela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+I'm a passionate software development student focused on building strong fundamentals, solving problems, and creating real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Student at **42 School**, diving deep into low-level programming and problem solving  
+- 🚀 Working with **C** to understand how software works under the hood  
+- 🐍 Exploring **Python** as a learning tool for automation, scripting, and problem solving  
+- 🌐 Building for the web using **HTML, CSS, and JavaScript**  
+- 🛠️ Using **Git & GitHub** for version control and collaboration  
+- 🌱 Constantly learning, experimenting, and improving — one project at a time  
+- 📍 Based in **Luanda, Angola**
+
+> *"Learning by doing. Growing by building."*
+
+---
+
+## 🧰 Tech Stack & Skills
+
+<p align="left">
+  <img alt="python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img alt="C" width="40" src="https://icon.icepanel.io/Technology/svg/C.svg">
+  <img alt="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img width="47%" src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=Muzembela&count_private=true&show_icons=true&theme=dark"/>
+  <img width="50%" src="https://github-readme-streak-stats-mauve.vercel.app/?user=Muzembela&theme=dark"/>
+</p>
+
+<p align="left">
+  <img width="47%" src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=Muzembela&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=16&theme=dark"/>
+</p>
