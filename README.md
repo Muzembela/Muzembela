@@ -4,7 +4,8 @@
 
 I'm a passionate software development student focused on building strong fundamentals, solving problems, and creating real-world projects.
 
-- 🎓 Student at **42 School**, diving deep into low-level programming and problem solving  
+- 🎓 Student at **42 School**, diving deep into low-level programming and problem solving
+- 🧠 Student at The Odin Project, exploring full-stack web development
 - 🚀 Working with **C** to understand how software works under the hood  
 - 🐍 Exploring **Python** as a learning tool for automation, scripting, and problem solving  
 - 🌐 Building for the web using **HTML, CSS, and JavaScript**  
