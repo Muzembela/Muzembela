@@ -34,10 +34,10 @@ I'm a passionate software development student focused on building strong fundame
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img width="47%" src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=Muzembela&count_private=true&show_icons=true&theme=dark"/>
-  <img width="50%" src="https://github-readme-streak-stats-mauve.vercel.app/?user=Muzembela&theme=dark"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Muzembela&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img width="50%" src="https://streak-stats.demolab.com/?user=Muzembela&theme=tokyonight&hide_border=false"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzembela&count_private=true&hide_border=false&layout=compact&langs_count=16&theme=tokyonight"/>
 </p>
