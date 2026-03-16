@@ -39,5 +39,5 @@ I'm a passionate software development student focused on building strong fundame
 </p>
 
 <p align="left">
-  <img width="47%" src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=Muzembela&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=16&theme=dark"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzembela&count_private=true&hide_border=false&layout=compact&langs_count=16&theme=tokyonight"/>
 </p>
